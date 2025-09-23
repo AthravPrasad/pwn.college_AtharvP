@@ -8,12 +8,12 @@ Once we got the path of the directory, we navigated using cd command and execute
 *Flag* : pwn.college{w9HvCa3qu8VXyfSiVie4vN30E29.QX3QTN0wCOwMzNzEzW}
 
 bash \
-hacker@paths~position-elsewhere:~$ /challenge/run     
+hacker@paths\~position-elsewhere:\~$ /challenge/run     
 Incorrect...     
 You are not currently in the /etc directory.    
 Please use the `cd` utility to change directory appropriately.    
-hacker@paths~position-elsewhere:~$ cd /etc    
-hacker@paths~position-elsewhere:/etc$ /challenge/run    
+hacker@paths\~position-elsewhere:\~$ cd /etc    
+hacker@paths\~position-elsewhere:/etc$ /challenge/run    
 Correct!!!    
 /challenge/run is an absolute path, invoked from the right directory!   
 Here is your flag:    
