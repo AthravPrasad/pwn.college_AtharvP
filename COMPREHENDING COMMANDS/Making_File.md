@@ -10,7 +10,7 @@ hacker@commands\~touching-files:\~$ touch /tmp/pwn
 hacker@commands\~touching-files:\~$ touch /tmp/college               
 hacker@commands\~touching-files:\~$ ls /tmp              
 bin  college  hsperfdata_root  pwn  tmp.TpSOPGOVKK              
-hacker@commands~touching-files:~$ /challenge/run             
+hacker@commands\~touching-files:\~$ /challenge/run             
 Success! Here is your flag:                     
 pwn.college{o0IPUoY_03Y3Q6dIzwn2MqqO5nu.QXwMDO0wCOwMzNzEzW}      
 
