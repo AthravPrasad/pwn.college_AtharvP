@@ -2,7 +2,7 @@
 
 ## My Solve:
 This problem was similar to the previous one where we had to navigate to root first, then invoke the  challenge/run file from there.
-The additional Feature here was that we had to use <.> .
+The additional Feature here was that we had to use <.>, whoch specified that run was in challenge directory.
 
 *Flag* : pwn.college{wIwawx0DTKDXP52ySunNVuQFP_p.QXwUTN0wCOwMzNzEzW}
 
