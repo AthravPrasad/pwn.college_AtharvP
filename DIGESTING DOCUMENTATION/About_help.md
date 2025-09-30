@@ -5,7 +5,7 @@ Firstly used --help program to find the next commands of what to do.
 Then followed the commands and did as asked.
 
 
-*Flag*:
+*Flag*:  pwn.college{Ezh4yje0X83ZErBgb7iXBl_mxYv.QX3IDO0wCOwMzNzEzW}              
 
 bash \               
 ''' hacker@man~helpful-programs:~$ /challenge help                                               
