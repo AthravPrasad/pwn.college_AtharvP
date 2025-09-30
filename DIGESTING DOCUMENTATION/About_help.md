@@ -10,7 +10,7 @@ Then followed the commands and did as asked.
 bash \               
 ''' hacker@man\~helpful-programs:\~$ /challenge help                                               
 bash: /challenge: Is a directory                        
-hacker@man~helpful-programs:~$ /challenge --help           
+hacker@man\~helpful-programs:\~$ /challenge --help           
 bash: /challenge: Is a directory                
 hacker@man\~helpful-programs:\~$ /challenge/challenge --help              
 usage: a challenge to make you ask for help [-h] [--fortune] [-v] [-g GIVE_THE_FLAG] [-p]                
