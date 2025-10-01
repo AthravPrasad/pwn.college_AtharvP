@@ -12,7 +12,7 @@ hacker@globbing\~multiple-globs:/challenge/files$ /challenge/run p**
 Your expansion did not expand to the requested files (happy optimistic pwning splendid uplifting).         
 Instead, it expanded to:                        
 pwning                        
-hacker@globbing\~multiple-globs:/challenge/files$ /challenge/run *p*             
+hacker@globbing\~multiple-globs:/challenge/files$ /challenge/run \*p\*             
 You got it! Here is your flag!                
 pwn.college{sDwLIFWAfnSbiN82o2LB_lBFaoL.0lM3kjNxwCOwMzNzEzW}           
 hacker@globbing\~multiple-globs:/challenge/files$              
