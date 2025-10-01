@@ -26,9 +26,9 @@ Bash
 
 [PASS] The file at the other end of my stdout looks okay!            
 [PASS] Success! You have satisfied all execution requirements.             
-hacker@piping\~grepping-stored-results:~$ grep pwn.college /tmp/data.txt         
+hacker@piping\~grepping-stored-results:\~$ grep pwn.college /tmp/data.txt         
 pwn.college{M22QIYYTPQFvs06fCwHFgmWwnPO.QX4EDO0wCOwMzNzEzW}         
-hacker@piping\~grepping-stored-results:~$ '''       
+hacker@piping\~grepping-stored-results:\~$ '''       
 
 ## Notes and Errors:
 None.
