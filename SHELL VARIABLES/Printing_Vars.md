@@ -9,7 +9,6 @@ Bash
 
 hacker@variables\~printing-variables:~$ echo $FLAG             
 pwn.college{MxeVDOEnj2EgkW9FCYtfCFfEfRE.QX3UTN0wCOwMzNzEzW}         
-hacker@variables\~printing-variables:~$  
 
 ## Notes and Errors:
 None.
