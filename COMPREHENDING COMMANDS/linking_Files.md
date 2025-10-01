@@ -9,11 +9,11 @@ Running /challenge/catflag then followed the link and printed the flag.
 
 Bash
 
-hacker@commands\~linking-files:~$ ln -s /flag /home/hacker/not-the-flag         
+hacker@commands\~linking-files:\~$ ln -s /flag /home/hacker/not-the-flag         
 ln: failed to create symbolic link '/home/hacker/not-the-flag': File exists        
-hacker@commands\~linking-files:~$ rm /home/hacker/not-the-flag            
-hacker@commands\~linking-files:~$ ln -s /flag /home/hacker/not-the-flag           
-hacker@commands\~linking-files:~$ /challenge/catflag            
+hacker@commands\~linking-files:\~$ rm /home/hacker/not-the-flag            
+hacker@commands\~linking-files:\~$ ln -s /flag /home/hacker/not-the-flag           
+hacker@commands\~linking-files:\~$ /challenge/catflag            
 About to read out the /home/hacker/not-the-flag file!
 pwn.college{AwV3Jy_EQ5m4HhdJjQ9txig2dbV.QX5ETN1wCOwMzNzEzW}
 
