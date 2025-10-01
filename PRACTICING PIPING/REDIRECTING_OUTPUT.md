@@ -8,7 +8,7 @@ did this and got the flag.
 
 Bash
 
-hacker@piping\~redirecting-output:~$ echo PWN > COLLEGE            
+hacker@piping\~redirecting-output:\~$ echo PWN > COLLEGE            
 Correct! You successfully redirected 'PWN' to the file 'COLLEGE'! Here is your              
 flag:                  
 pwn.college{gDQrw-sjZUT5ciBjHiR63RymJ_o.QX0YTN0wCOwMzNzEzW}           
