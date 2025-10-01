@@ -8,9 +8,9 @@ I used the pipe operator (|) to direct the standard output (stdout) of /challeng
 
 Bash
 
-hacker@piping\~filtering-with-grep-v:~$ /challenge/run | grep -v DECOY        
+hacker@piping\~filtering-with-grep-v:\~$ /challenge/run | grep -v DECOY        
 pwn.college{UjlXo8oyF24YBiPjT-vW9aU98N7.0FOxEzNxwCOwMzNzEzW}          
-hacker@piping\~filtering-with-grep-v:~$           
+hacker@piping\~filtering-with-grep-v:\~$           
 
 
 ## Notes and Errors: 
