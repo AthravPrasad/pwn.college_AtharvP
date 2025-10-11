@@ -10,7 +10,7 @@ Using cat afterward successfully read the file's content and retrieved the flag.
 Bash
 
 '''hacker@permissions\~changing-permissions:~$ chmod +r /flag            
-hacker@permissions\~changing-permissions:~$ cat /flag              
+hacker@permissions\~changing-permissions:\~$ cat /flag              
 pwn.college{cSgiMSsucnox5rFQtfFjKn5tUFYP.QXzcJM1WCOwMzNzEzW}'''              
 
 ## Notes And Errors:
